@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		015F328C205FA76A00798127 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 015F328B205FA76A00798127 /* 6.png */; };
 		017F62EC205BAB5A003DF5DB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 017F62EB205BAB5A003DF5DB /* AppDelegate.m */; };
 		017F62EF205BAB5A003DF5DB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 017F62EE205BAB5A003DF5DB /* ViewController.m */; };
 		017F62F2205BAB5A003DF5DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 017F62F0205BAB5A003DF5DB /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		015F328B205FA76A00798127 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
 		017F62E7205BAB5A003DF5DB /* GCD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GCD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		017F62EA205BAB5A003DF5DB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		017F62EB205BAB5A003DF5DB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 		017F62E9205BAB5A003DF5DB /* GCD */ = {
 			isa = PBXGroup;
 			children = (
+				015F328B205FA76A00798127 /* 6.png */,
 				017F631D205BAC7D003DF5DB /* Readme.md */,
 				017F62EA205BAB5A003DF5DB /* AppDelegate.h */,
 				017F62EB205BAB5A003DF5DB /* AppDelegate.m */,
@@ -245,6 +248,7 @@
 				017F62F4205BAB5A003DF5DB /* Assets.xcassets in Resources */,
 				017F631E205BAC7E003DF5DB /* Readme.md in Resources */,
 				017F62F2205BAB5A003DF5DB /* Main.storyboard in Resources */,
+				015F328C205FA76A00798127 /* 6.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
