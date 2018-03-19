@@ -1,6 +1,6 @@
 GCD总结<br/>
 参考博客:https://www.jianshu.com/p/2d57c72016c6<br/>
-包括一下内容:<br/>
+包括以下内容:<br/>
 一.队列与任务的创建.<br/>
 二.六种组合:<br/>
 ![image](https://github.com/ChenYangGitfun/GCD/raw/master/GCD/6.png)<br/>
